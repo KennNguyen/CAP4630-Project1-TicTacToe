@@ -95,7 +95,7 @@ $\textbf{Difference Between Fail-Hard and Fail-Soft Part 1:}$ In the fail-hard v
 
 $\textbf{Difference Between Fail-Hard and Fail-Soft Part 2:}$ Fail-hard pruning guarantees that the final result will be the same as if you had explored the entire search tree, assuming that the alpha and beta values are initialized correctly. It's both optimal (in terms of finding the best move) and complete (in terms of exploring all necessary nodes). Fail-soft pruning does not guarantee optimality or completeness on its own. It might miss the best move if it stops too early, or it might explore unnecessary nodes if it doesn't stop when it should. However, it can still be effective in practice when used in combination with move ordering and other heuristic techniques.
 
-$\textbf{Case Of Zero Sum Game: }$For every two-person, zero-sum game with finitely many strategies, there exists a value V and a mixed strategy for each player, such that:
+$\textbf{Case Of Zero Sum Game: }$ For every two-person, zero-sum game with finitely many strategies, there exists a value V and a mixed strategy for each player, such that:
 
 * Given Player 2's strategy, the best payoff possible for Player 1 is V
 * Given Player 1's strategy, the best payoff possible for Player 2 is −V
