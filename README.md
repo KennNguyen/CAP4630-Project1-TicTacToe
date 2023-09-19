@@ -15,9 +15,9 @@ Frontend is implemented using HTML, CSS, and JavaScript, but game logic is handl
 
 ## Authors
 
-* **[Kenneth Nguyen](https://github.com/KennNguyen/)**
-* **[Zee Fisher](https://github.com/zmfisher01)**
-* **[Yurixander R.](https://github.com/yurixander)**
+* **[Kenneth Nguyen](https://github.com/KennNguyen/)** (Reporter)
+* **[Zee Fisher](https://github.com/zmfisher01)** (Architect)
+* **[Yurixander R.](https://github.com/yurixander)** (Developer)
 
 ## Project overview
 
