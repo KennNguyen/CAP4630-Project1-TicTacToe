@@ -163,24 +163,24 @@ A welcome state is displayed on the console when the user first runs the program
 
 ---
 
-![Benchmark](<https://raw.githubusercontent.com/KennNguyen/CAP4630-Project1-TicTacToe/web-extra-credit/screenshots/Benchmark.png>)
+![Benchmark](<https://raw.githubusercontent.com/KennNguyen/CAP4630-Project1-TicTacToe/web-extra-credit/screenshots/benchmark.png>)
 
 Shows benchmarking results, comparing the usage of the minimax algorithm with and without alpha-beta pruning.
 
 ---
 
-![Benchmark](<https://raw.githubusercontent.com/KennNguyen/CAP4630-Project1-TicTacToe/web-extra-credit/screenshots/sessionmanagment1.png>)
+![Session management 1](<https://raw.githubusercontent.com/KennNguyen/CAP4630-Project1-TicTacToe/web-extra-credit/screenshots/sessionmanagment1.png>)
 
 Session management allows for multiple users to play the game at the same time. This has to do with the Flask backend.
 
 ---
 
-![Benchmark](<https://raw.githubusercontent.com/KennNguyen/CAP4630-Project1-TicTacToe/web-extra-credit/screenshots/sessionmanagment2.png>)
+![Session management 2](<https://raw.githubusercontent.com/KennNguyen/CAP4630-Project1-TicTacToe/web-extra-credit/screenshots/sessionmanagment2.png>)
 
 Session management allows for multiple users to play the game at the same time. This has to do with the Flask backend.
 
 ---
 
-![Benchmark](<https://raw.githubusercontent.com/KennNguyen/CAP4630-Project1-TicTacToe/web-extra-credit/screenshots/sessionmanagment3.png>)
+![Session management 3](<https://raw.githubusercontent.com/KennNguyen/CAP4630-Project1-TicTacToe/web-extra-credit/screenshots/sessionmanagment3.png>)
 
 Session management allows for multiple users to play the game at the same time. This has to do with the Flask backend.
