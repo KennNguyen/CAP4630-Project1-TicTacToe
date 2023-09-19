@@ -19,7 +19,7 @@ Frontend is implemented using HTML, CSS, and JavaScript, but game logic is handl
 * **[Zee Fisher](https://github.com/zmfisher01)**
 * **[Yurixander R.](https://github.com/yurixander)**
 
-## Project report and analysis
+## Project overview
 
 $\textbf{Minimax}$ is a decision-making strategy used in two-player games where one player aims to maximize their score (often called the "maximizer") and the other player aims to minimize the score of the maximizer (often called the "minimizer"). The goal is to find the best move for the maximizer, assuming that the minimizer will make optimal moves.
 
@@ -104,7 +104,7 @@ $\textbf{Choice of web server:}$ The web server came down to two choices, as sug
 
 $\textbf{Flask web server implementation:}$ Implementing the python game for Flask required some specific but trivial modifications to the game loop and user input-output. Most importantly, the game needs to be able to communicate with the user. Flask has some basic features to server HTML, JS, and CSS, but we will also need to send and retrieve the board state and the players move respectively. To do this, we can send variables via GET and POST methods supplied by Flask. As an important measure to differentiate users, before a new game is played, the server creates a session ID for a new user. Trivially, because the Flask server allows us to host our own front-end data, the liberty was taken to customize the design further, including sound effects and particles.
 
-## Report on Assignment
+## Project report
 
 Team: Yurixander Ricardo Silva, Zee Fisher, and Kenneth Nguyen.
 
