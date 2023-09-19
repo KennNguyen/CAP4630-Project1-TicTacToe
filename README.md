@@ -19,6 +19,11 @@ Frontend is implemented using HTML, CSS, and JavaScript, but game logic is handl
 * **[Zee Fisher](https://github.com/zmfisher01)** (Architect)
 * **[Yurixander R.](https://github.com/yurixander)** (Developer)
 
+## Branches
+
+* [main](https://github.com/KennNguyen/CAP4630-Project1-TicTacToe/tree/main) - Contains the console version of the project, with the Minimax algorithm + alpha-beta pruning optimization.
+* [web-extra-credit](https://github.com/KennNguyen/CAP4630-Project1-TicTacToe/tree/web-extra-credit) - Contains the web version of the project, along with the Minimax algorithm + alpha-beta pruning optimization, and Flask backend server logic. This is the branch that is hosted online, and is the branch that was made to satisfy the extra credit requirements.
+
 ## Project overview and Minimax algorithm analysis
 
 $\textbf{Minimax}$ is a decision-making strategy used in two-player games where one player aims to maximize their score (often called the "maximizer") and the other player aims to minimize the score of the maximizer (often called the "minimizer"). The goal is to find the best move for the maximizer, assuming that the minimizer will make optimal moves.
