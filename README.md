@@ -4,7 +4,7 @@ A Tic-Tac-Toe game implementation in Python3 using the Minimax algorithm for com
 
 Frontend is implemented using HTML, CSS, and JavaScript, but game logic is handled by the Python backend.
 
-✨ [Click here to view the project online](http://76.110.177.175) ✨
+✨ [Click here to view the project online](http://34.229.83.117/) ✨
 
 ## Building and running locally
 
